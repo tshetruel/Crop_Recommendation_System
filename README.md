@@ -1,2 +1,2 @@
-# Crop_Recommendation_System
-Crop recommendation using machine learning
+# Crop-Recommendation
+Dataset is taken from Kaggle. Link : https://www.kaggle.com/atharvaingle/crop-recommendation-dataset
